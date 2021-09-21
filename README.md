@@ -3,8 +3,7 @@
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moses Samuel</h1>
 <span>I'm Software Engineer with over 7 years of experience with profound knowledge of solving problems. Highly experienced with multiple programming languages required for website, web application and database development. Enjoy working as a team member with excellent communication, interpersonal skills and proactive.</span>
-
-<p>&nbsp;</p>
+&nbsp;
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developerzion/)
