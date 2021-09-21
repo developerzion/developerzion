@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning **ASP.NET Core MVC framework**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://developerzion.netlify.app)**
+  
+- 👨‍💻 All of my projects are available at <a href="https://developerzion.netlify.app" target="_blank">**My Portfolio**</a></b>
 
 - 📫 How to reach me **devparse.official@gmail.com**
 
