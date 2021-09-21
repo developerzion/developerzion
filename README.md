@@ -5,7 +5,8 @@
 <span>I'm Software Engineer with over 7 years of experience with profound knowledge of solving problems. Highly experienced with multiple programming languages required for website, web application and database development. Enjoy working as a team member with excellent communication, interpersonal skills and proactive.</span>
 <p></p>
 
-**Intersted in doing a project together, connect with me via:**
+👯 **Intersted in doing a project together, connect with me via:**
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developerzion/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/developerzion)
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jobic10)](https://twitter.com/developerzion)
