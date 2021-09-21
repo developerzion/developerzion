@@ -4,6 +4,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moses Samuel</h1>
 <span>I'm Software Engineer with over 7 years of experience with profound knowledge of solving problems. Highly experienced with multiple programming languages required for website, web application and database development. Enjoy working as a team member with excellent communication, interpersonal skills and proactive.</span>
 
+<p>&nbsp;</p>
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/developerzion/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/developerzion)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jobic10)](https://twitter.com/developerzion)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:devparse@gmaillcom)
+<a href="https://wa.me/2347036195368?text=Hi Job">
+  <img src="https://img.shields.io/badge/-Whatsapp-green?&style=flat-square&logo=whatsapp&logoColor=white" />
+</a>
+
 
 ## 🙋‍♂️ About Me
 
