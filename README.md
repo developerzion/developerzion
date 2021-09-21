@@ -1,4 +1,4 @@
-<center><img width="50%" height="auto" src="https://developerzion.netlify.app/images/developer.gif" /></center>
+<center><img width="50%" height="auto" src="https://raw.githubusercontent.com/developerzion/developerzion/main/files/profile.svg" /></center>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moses Samuel</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from Nigeira.</h3>
