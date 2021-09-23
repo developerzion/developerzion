@@ -40,27 +40,22 @@
 <img src="https://img.shields.io/badge/-PHP-00ad6a?style=flat-square&logo=PHP&logoColor=white" />
 <img src="https://img.shields.io/badge/-MySQL-186675?style=flat-square&logo=mysql"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-
-
 </p><br />
 <br/>
 
 <p align="center">
-    <a href="https://github.com/developerzion/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Moses samuel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=developerzion&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=developerzion&theme=black-ice&hide_border=true&background=060A0CD0)](https://github.com/developerzion)
+
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/developerzion/github-readme-stats"><img alt="Moses Samuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=developerzion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/developerzion/github-readme-stats"><img alt="Moses Samuel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerzion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/developerzion"><img alt="Moses Samuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=developerzion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/developerzion"><img alt="Moses Samuel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerzion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>  
 
-<a href="https://github.com/developerzion/github-readme-activity-graph"><img alt="Moses samuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerzion&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
+<a href="https://github.com/developerzion"><img alt="Moses samuel's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=developerzion&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
