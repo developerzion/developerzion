@@ -32,7 +32,8 @@
 <p>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-HTML5-e79a00?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-ASP.NET-f13c3b?style=flat-square&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/-React-f13c3b?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/-node-430098?style=flat-square&logo=node&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Java-3e8c82?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Javascript-e86a45?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Postman-000?style=flat-square&logo=postman"/>
