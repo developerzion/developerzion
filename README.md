@@ -2,7 +2,7 @@
 <img width="35%" height="auto" src="https://raw.githubusercontent.com/developerzion/developerzion/main/files/profile.svg" />
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moses Samuel</h1>
-<span>I'm Software Engineer with over 7 years of experience with profound knowledge of solving problems. Highly experienced with multiple programming languages required for website, web application and database development. Enjoy working as a team member with excellent communication, interpersonal skills and proactive.</span>
+<span>I'm Software Engineer with over three years of experience with profound knowledge of solving problems. Highly experienced with multiple programming languages required for website, web application and database development. Enjoy working as a team member with excellent communication, interpersonal skills and proactive.</span>
 <p></p>
 
 👯 **Intersted in doing a project together, connect with me via:**
