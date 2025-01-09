@@ -1,9 +1,9 @@
 <p align="center">
-<img width="35%" height="auto" src="https://res.cloudinary.com/dyfmkjtkr/image/upload/v1701385893/dev_lcvziv.webp" />
+<img width="35%" height="auto" src="https://res.cloudinary.com/dyfmkjtkr/image/upload/v1736426330/12_rpw9jw.webp" />
 <!-- https://raw.githubusercontent.com/developerzion/developerzion/main/files/profile.svg -->
 </p>
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">, I'm Samuel</h1>
-<span>I'm Software Engineer with over five years of experience with profound knowledge of solving problems. Highly experienced with multiple programming languages required for website, web application and database development. Enjoy working as a team member with excellent communication skill.</span>
+<span>I am a highly skilled Full Stack Software Engineer with over 5 years of experience designing, developing, and deploying robust web and mobile applications. Proficient in a wide range of technologies, I excel at delivering scalable solutions that enhance user experience, optimise performance, and ensure data security.</span>
 <p></p>
 
 🌱 **Intersted in doing a project together, connect with me via:**
@@ -18,10 +18,9 @@
 ## 👨🏾‍💻 About Me
 
 
--  🌱 I’m currently learning **React Native**
-
+<!-- -  🌱 I’m currently learning **React Native** -->
 -  👯 I’m looking to collaborate on **OpenSource Projects**
--  👨‍💻 Some of my projects are available at <a href="https://developerzion.netlify.app" target="_blank">**My Portfolio**</a></b>
+-  👨‍💻 Some of my projects are available at <a href="https://developerzion.vercel.app" target="_blank">**My Portfolio**</a></b>
 
 -  📫 How to reach me **devparse.official@gmail.com**
    </br>
@@ -33,6 +32,7 @@
 <img src="https://img.shields.io/badge/-React-66dbfb?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Typescript-397CC7?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-PHP-546097?style=flat-square&logo=PHP&logoColor=white" />
+<img src="https://img.shields.io/badge/-React Native-66dbfb?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Nest-white?style=flat-square&logo=nestjs&logoColor=red"/>
 <img src="https://img.shields.io/badge/-Express-green?style=flat-square&logo=express"/>
 <img src="https://img.shields.io/badge/-GraphQl-E53DAE?style=flat-square&logo=graphql"/>
@@ -71,8 +71,8 @@
 <br />
   <br/>
 
-## 🏆 Github Profile Trophy
+<!-- ## 🏆 Github Profile Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=developerzion&theme=radical)](https://github.com/developerzion)
 <br />
-<br />
+<br /> -->
