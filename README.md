@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="140" height="155" style="border-radius: 50%;" src="  https://www.developerzion.com/_next/image?url=%2Flogo.jpg&w=828&q=75" alt="Samuel Moses" />
+<!-- <img width="140" height="155" style="border-radius: 50%;" src="  https://www.developerzion.com/_next/image?url=%2Flogo.jpg&w=828&q=75" alt="Samuel Moses" /> -->
 
 # Samuel Moses
 
@@ -21,7 +21,7 @@
 
 I architect and ship full-stack web and mobile products end-to-end — from system design and API contracts through to polished, production-ready UIs. I bring strong opinions on clean code, security-first design, and team mentorship, and I thrive in cross-functional environments where engineers and product people work closely together.
 
-> *"I reduced release cycles by 40% at Greenbaq by introducing GitHub Actions and Docker automation — and I mentor teams to keep raising the bar."*
+> *"I reduced release cycles by 40% at Imo Talent by introducing GitHub Actions and Docker automation, and I mentor teams to keep raising the bar."*
 
 ---
 
@@ -108,9 +108,9 @@ Technical Team Lead         FirstFounders         Feb 2020 – Nov 2021
 
 <div align="center">
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=developerzion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=developerzion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerzion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<!-- <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerzion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> -->
 
 <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=developerzion&theme=black-ice&hide_border=true&background=0D1117" />
 
